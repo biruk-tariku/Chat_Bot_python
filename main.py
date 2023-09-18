@@ -12,5 +12,5 @@ while True:
     user_input = input("user: ")
     if user_input == "exit":
         break
-    response = bot.get_response(user_inppiut)
+    response = bot.get_response(user_input)
     print ("Bot: ", response)
