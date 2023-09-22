@@ -1,5 +1,6 @@
 # Chat_Bot_python
-its a chatbot that can engage in conversations. Here's a summary of what the code does:
+
+a chatbot that can engage in conversations. Here's a summary of what the code does:
 
 1. It creates a chatbot named "My Bot" using `ChatBot("My Bot")`.
 
